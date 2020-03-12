@@ -1,8 +1,8 @@
 {
-  "name": "material-ui",
-  "publisher": "ArunagiriTM",
+  "name": "material-ui-tsx",
+  "publisher": "tangzhongliang",
   "displayName": "Material ui Snippets",
-  "description": "Material ui Snippets for React by Arunagiri TM",
+  "description": "Material ui Snippets for React by tangzhongliang",
   "icon": "images/material-ui-logo.png",
   "galleryBanner": {
     "color": "#0273D4",
@@ -11,7 +11,7 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tmarun/vscode-material-ui-snippets.git"
+    "url": "https://github.com/tangzhongliang/vscode-material-ui-snippets-tsx.git"
   },
   "keywords": [
     "mui",
