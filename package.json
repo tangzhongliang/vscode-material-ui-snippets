@@ -50,6 +50,10 @@
         "path": "./snippets/jsx.json"
       },
       {
+        "language": "tsx",
+        "path": "./snippets/tsx.json"
+      },
+      {
         "language": "javascript",
         "path": "./snippets/javascript.json"
       }
