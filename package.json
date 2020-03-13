@@ -50,7 +50,7 @@
         "path": "./snippets/jsx.json"
       },
       {
-        "language": "tsx",
+        "language": "typescriptreact",
         "path": "./snippets/tsx.json"
       },
       {
